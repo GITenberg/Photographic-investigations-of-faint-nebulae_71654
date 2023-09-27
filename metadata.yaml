@@ -1,0 +1,30 @@
+_repo: Photographic-investigations-of-faint-nebulae_71654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubble, Edwin
+    alias: Hubble, Edwin Powell
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '54776'
+    url: http://www.gutenberg.org/2009/agents/54776
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Hubble
+description: ''
+gutenberg_issued: '2023-09-15'
+identifiers:
+  gutenberg: '71654'
+language: en
+pgterms:marc905: 20080731103905hubble
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aChicago :$bThe University of Chicago Press, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Photographic investigations of faint nebulae
+url: http://www.gutenberg.org/ebooks/71654
