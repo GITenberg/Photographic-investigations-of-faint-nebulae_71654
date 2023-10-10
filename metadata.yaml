@@ -1,5 +1,8 @@
 _repo: Photographic-investigations-of-faint-nebulae_71654
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71654-h/images/cover.jpg
 creator:
   author:
     agent_name: Hubble, Edwin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54776
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Hubble
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71654#Photographic-investigations-of-faint-nebulae
 gutenberg_issued: '2023-09-15'
 identifiers:
   gutenberg: '71654'
